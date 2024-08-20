@@ -52,8 +52,8 @@ form input[type="checkbox"]{
 }
 form button{
     cursor: pointer;
-    background-color: #e99898;
-    color: #ddd;
+    background-color: #57dd2e;
+    color: #000000;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
